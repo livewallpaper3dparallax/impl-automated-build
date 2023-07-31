@@ -16,11 +16,11 @@ object ProjectSetting {
     // ---------------------------------------------------------------------------------------------
 
     // Declaration app name
-    const val NAME_APP = "Implementation Action Auto"
+    const val NAME_APP = "WALLPAPER AMIRIS"
 
-    const val APP_DOMAIN = "com"
-    const val APP_PLAY_CONSOLE = "amirisback"
-    const val APP_NAME = "implaction"
+    const val APP_DOMAIN = "id"
+    const val APP_PLAY_CONSOLE = "imamisback"
+    const val APP_NAME = "wallpaper"
 
     const val VERSION_MAJOR = 2
     const val VERSION_MINOR = 2
